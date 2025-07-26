@@ -11,6 +11,7 @@ A lightweight, persistent to‑do list built with pure HTML, CSS, and vanilla Ja
   - [Demo](#demo)
   - [Features](#features)
   - [Technologies](#technologies)
+  - [Preview](#preview)
   - [Installation](#installation)
 
 ---
@@ -36,6 +37,12 @@ A lightweight, persistent to‑do list built with pure HTML, CSS, and vanilla Ja
 - **HTML5**  
 - **CSS3** (Flexbox, Custom Properties)  
 - **JavaScript** (ES6+, `localStorage`)  
+
+---
+
+## Preview
+
+- [Live Demo](https://codewithoyem.github.io/todo-list-100daysofcode/)
 
 ---
 
